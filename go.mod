@@ -1,4 +1,4 @@
-module common
+module github.com/mudita33/profanity-filter-sentence
 
 go 1.17
 
